@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","SHIVANSHDEVS")
+OWNER_USERNAME = getenv("OWNER_USERNAME","TG_PROFESS0R")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Itz_SapnaMusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Spottfy_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "SAPNA")
+BOT_NAME = getenv("BOT_NAME" , "𝗦𝗣𝗢𝗧𝗜𝗙𝗬˼ ✘ ˹𝗠𝗨𝗦𝗜𝗖˼⛦⃕͜🇮🇳")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
+ASSUSERNAME = getenv("ASSUSERNAME" , "spottfymusic")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002428511388))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+OWNER_ID = int(getenv("OWNER_ID", 7861988028))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SHIVANSH474")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MASTIWITHFRIENDSXD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_UPDATE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MUSIC_BOT_UPDATE")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/7bb907999ea7156227283.jpg"
+    "PING_IMG_URL", "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/13afb9ee5c5da17930f1e.png"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/13afb9ee5c5da17930f1e.png"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+STATS_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+STREAM_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/57c384454b0072158a6c9-6d9834426000470fcf.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
